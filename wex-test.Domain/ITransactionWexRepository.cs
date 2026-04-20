@@ -10,6 +10,6 @@ namespace wex_test.Domain
     {
         Task<IEnumerable<TransactionWex>> GetTransactions();
 
-        void Create(TransactionWex transaction);
+        Task Create(TransactionWex transaction);
     }
 }

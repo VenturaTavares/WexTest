@@ -20,10 +20,10 @@ namespace wext_test.Data.Repository
         private readonly WexTestContext _context;
 
 
-        public void Create(TransactionWex transaction)
+        public async Task Create(TransactionWex transaction)
         {
             this._context.Transactions.Add(transaction);
-            this._context.SaveChangesAsync();
+            await this._context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<TransactionWex>> GetTransactions()
