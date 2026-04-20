@@ -1,0 +1,15 @@
+C:\wex-test\wex-test\wex-test.Application\bin\Debug\net9.0\wex-test.Application.deps.json
+C:\wex-test\wex-test\wex-test.Application\bin\Debug\net9.0\wex-test.Application.dll
+C:\wex-test\wex-test\wex-test.Application\bin\Debug\net9.0\wex-test.Application.pdb
+C:\wex-test\wex-test\wex-test.Application\bin\Debug\net9.0\wex-test.Domain.dll
+C:\wex-test\wex-test\wex-test.Application\bin\Debug\net9.0\wex-test.Domain.pdb
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.csproj.AssemblyReference.cache
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.AssemblyInfoInputs.cache
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.AssemblyInfo.cs
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.csproj.CoreCompileInputs.cache
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.B7B067D3.Up2Date
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.dll
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\refint\wex-test.Application.dll
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\wex-test.Application.pdb
+C:\wex-test\wex-test\wex-test.Application\obj\Debug\net9.0\ref\wex-test.Application.dll

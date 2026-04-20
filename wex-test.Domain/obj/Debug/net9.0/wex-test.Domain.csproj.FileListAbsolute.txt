@@ -1,0 +1,11 @@
+C:\wex-test\wex-test\wex-test.Domain\bin\Debug\net9.0\wex-test.Domain.deps.json
+C:\wex-test\wex-test\wex-test.Domain\bin\Debug\net9.0\wex-test.Domain.dll
+C:\wex-test\wex-test\wex-test.Domain\bin\Debug\net9.0\wex-test.Domain.pdb
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\wex-test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\wex-test.Domain.AssemblyInfoInputs.cache
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\wex-test.Domain.AssemblyInfo.cs
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\wex-test.Domain.csproj.CoreCompileInputs.cache
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\wex-test.Domain.dll
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\refint\wex-test.Domain.dll
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\wex-test.Domain.pdb
+C:\wex-test\wex-test\wex-test.Domain\obj\Debug\net9.0\ref\wex-test.Domain.dll
