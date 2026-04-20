@@ -1,0 +1,62 @@
+﻿@model IEnumerable<wex_test.Application.ViewModels.TransactionViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Transactions</h1>
+
+<p>
+    <a asp-action="Create">Create New Transaction</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Transaction Description
+            </th>
+            <th>
+              Transaction Date
+            </th>
+            <th>
+               Purchase Amount
+            </th>
+            <th>
+               Purchase Amount Converted
+            </th>
+            <th>
+              Exchange Rate
+            </th>
+            <th>
+                Currency 
+            </th>
+            <th></th>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactionDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PurchaseAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PurchaseAmountConverted)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ExchangeRate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CountryCurrencyDescription)
+                </td>
+               
+            </tr>
+        }
+    </tbody>
+</table>
